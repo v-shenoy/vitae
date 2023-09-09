@@ -1,0 +1,27 @@
+name: Vighnesh Shenoy
+links:
+  - url: "tel:+919028347342"
+    display: +91-9028347342
+    icon: phone
+  - url: "mailto:vighneshq@gmail.com"
+    display: vighneshq@gmail.com
+    icon: mail
+  - url: https://v-shenoy.com/
+    display: v-shenoy.com
+    icon: link
+  - url: https://github.com/v-shenoy
+    display: v-shenoy
+    icon: github
+  - url: https://www.linkedin.com/in/v-shenoy
+    display: /in/v-shenoy
+    icon: linkedin
+education:
+  - name: BITS Pilani, Hyderabad Campus
+    start: August, 2016
+    end: May, 2021
+    degree: _*B.E.*_ Computer Science and _*M.Sc*._ Mathematics
+    location: Hyderabad, Telangana
+    grade: "*GPA:* 9.10 / 10.0"
+    description: 
+    - Secretary of the Quiz Club for the academic year 2018-19.
+    - Teaching assistant for the following courses - _Mathematics I_, _Mathematics II_, _Measure & Integration_, _Introduction to Topology_.
