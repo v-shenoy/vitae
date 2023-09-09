@@ -22,6 +22,55 @@ education:
     degree: _*B.E.*_ Computer Science and _*M.Sc*._ Mathematics
     location: Hyderabad, Telangana
     grade: "*GPA:* 9.10 / 10.0"
-    description: 
+    points: 
     - Secretary of the Quiz Club for the academic year 2018-19.
     - Teaching assistant for the following courses - _Mathematics I_, _Mathematics II_, _Measure & Integration_, _Introduction to Topology_.
+work_experience:
+- company: Microsoft
+  role: Software Engineer
+  start: July, 2021
+  end: Present
+  location: Hyderabad, Telangana
+  team: "Azure Functions"
+  points:
+  - Contributor to the KEDA project, which enables event-based autoscaling of workloads on Kubernetes.
+  - Sole developer for the KEDA add-on for Azure Kubernetes Service, which provides a managed experience for KEDA on AKS.
+  - Maintainer of the RabbitMQ extension which supports the broker to be used for triggers, and bindings for Azure Functions.
+  - Worked on the Functions on Azure Container Apps project, which provides native integration of Functions with microservices running in Container Apps environment.
+  technologies: [Go, C#, Azure, Docker, Kubernetes, RabbitMQ, Kafka]
+- company: Walmart
+  role: Software Engineering Intern
+  start: January, 2021
+  end: June, 2021
+  location: Remote
+  team: FASTr
+  points:
+  - Created a support tool for debugging the Quick Pick app used by Walmart associates to pick items from the shelves.
+  - Designed an API & JSON-schema for running different tasks such as fetching Application Insight logs, CosmosDB queries, regex matches, Slack notifications, etc.
+  technologies: [Python, Java, Sprint Boot, Azure, Slack API]
+- company: Amazon
+  role: Software Engineering Intern
+  start: June, 2020
+  end: December, 2020
+  location: Remote
+  team: Delivery Service Partner (DSP) Acquisition
+  points:
+  - Upgraded the marketing portal to the latest version of the Flex UI framework.
+  - Setup required AWS infrastructur including VMs, load-balancers, automated log backups, and CI/CD pipelines.
+  technologies: [Java, Spring, AWS]
+- company: Microsoft
+  role: Software Engineering Intern
+  start: April, 2020
+  end: May, 2020
+  location: Remote
+  team: Microsoft Exchange Hybrid
+  points:
+  - Implemented an ala-carte mode for the Hybrid Configuration Wizard, which allows users to select the features they want to configure.
+  - Completed a POC on location-aware hybrid agents, to speed up mail-box migration and free-busy lookups.
+  technologies: [C#, Azure]
+projects: 
+skills:
+  Programming Languages: [Python, Go, C#, JavaScript, Rust, C/C++]
+  Technologies: [Git, Linux, Docker, Kubernetes, Azure, SQL]
+  Soft: [Communication, Teamwork, Leadership, Problem Solving, Documentation]
+languages: [English, Hindi, Konkani, Marathi]
