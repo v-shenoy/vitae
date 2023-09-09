@@ -56,16 +56,16 @@ work_experience:
   team: Delivery Service Partner (DSP) Acquisition
   points:
   - Upgraded the marketing portal to the latest version of the Flex UI framework.
-  - Setup required AWS infrastructur including VMs, load-balancers, automated log backups, and CI/CD pipelines.
+  - Setup required AWS infrastructure including VMs, load-balancers, automated log backups, and CI/CD pipelines.
   technologies: [Java, Spring, AWS]
 - company: Microsoft
   role: Software Engineering Intern
   start: April, 2020
   end: May, 2020
   location: Remote
-  team: Microsoft Exchange Hybrid
+  team: Exchange Hybrid
   points:
-  - Implemented an ala-carte mode for the Hybrid Configuration Wizard, which allows users to select the features they want to configure.
+  - Completed a POC for an ala-carte mode for the Hybrid Configuration Wizard, which allows users to select the features they want to configure.
   - Completed a POC on location-aware hybrid agents, to speed up mail-box migration and free-busy lookups.
   technologies: [C#, Azure]
 projects: 

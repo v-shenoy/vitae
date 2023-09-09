@@ -114,11 +114,15 @@
   footer: [
     #set align(right)
     #set text(size: 9pt, fill: rgb(0, 0, 0, 150))
-    Last updated on - #datetime.today().display("[day] [month repr:short], [year]") 
-  ]
+    Last updated -- #datetime.today().display("[day] [month repr:short], [year]") 
+  ],
+  footer-descent: 50%
 )
 
 #set text(font: "Calibri")
 
 #let data = yaml("data.yaml")
+
+#set document(title: data.name + " -- CV", author: data.name)
+
 #cv(data)
