@@ -1,0 +1,88 @@
+name: Vighnesh Shenoy
+job: Software Engineer
+summary: Passionate software engineer with extensive experience in managing large-scale projects with X+ monthly active users. Detail-oriented and proficient in a wide array of technologies and software development practices. Adept at fostering collaboration within diverse, geo-distributed teams ensuring project success.
+
+links:
+  - url: tel:+910000000000
+    display: +91-0000000000
+    icon: phone
+  - url: mailto:vighneshq@gmail.com
+    display: vighneshq@gmail.com
+    icon: mail
+  - url: https://v-shenoy.com/
+    display: v-shenoy.com
+    icon: link
+  - url: https://github.com/v-shenoy
+    display: v-shenoy
+    icon: github
+  - url: https://www.linkedin.com/in/v-shenoy
+    display: /in/v-shenoy
+    icon: linkedin
+
+experience:
+- company: Microsoft
+  positions:
+  - role: Software Engineer II
+    team: Azure Functions
+    start: March 2024
+    end: Present
+    location: Hyderabad, India
+    info:
+    - Enhanced enterprise user experience & security for Functions on Azure Container Apps (ACA) by designing & implementing support for Managed Identity, and integrating it with key services such as Key Vault & Container Registery.
+    - Successfully achieved general-availability for the Functions on ACA plan by contributing essential features & critical bug-fixes to the control plane (backend APIs) & data-plane.
+    - Showcased leadership skills by acting as a mentor to multiple interns, providing them a seamless on-boarding experience to the team & helping  accomplish the planned deliverables.
+  - role: Software Engineer
+    team: Azure Functions
+    start: June, 2021
+    end: March, 2024
+    location: Hyderabad, India
+    info: 
+    - Acquired privileged contributor access to KEDA, which is an open-source CNCF project enabling event-based autoscaling of workloads on Kubernetes.
+    - Acted as the primary maintainer of 10+ KEDA scalers for various Azure services, enabling users to autoscale their applications on Azure.
+    # - Increased developer contributions & efficiency by developing an E2E testing framework in Go, facilitating the migration of tests from TypeScript for 60+ scalers.
+    - Successfully transitioned the KEDA add-on for Azure Kubernetes Service (AKS) from preview to general availability as the sole developer, providing a managed KEDA experience on AKS.
+    - Increased overall KEDA usage across OSS and AKS add-on by contributing essential features & bug-fixes leading to a 20% attach rate of KEDA with AKS clusters.
+    - Ensured a 99.9% SLA for control-plane APIs for Functions on ACA by enhancing backend functionality and resolving critical issues.
+- company: Walmart
+  positions:
+  - role: Software Engineering Intern
+    team: FASTr
+    start: January, 2021
+    end: June, 2021
+    location: Remote
+    info:
+    - Improved developer productivity by 5 developer hours by creating a support tool to debug the QuickPick app used by Walmart associates.
+- company: Amazon
+  positions:
+  - role: Software Engineering Intern
+    team: Delivery Service Partner (DSP) Acquisition
+    start: June, 2021
+    end: December, 2021
+    location: Remote
+    info:
+    - Improved overall backend performance by 15% for the marketing website by deploying it in a cloud-native fashion on AWS using industry standards. 
+- company: Microsoft
+  positions:
+  - role: Software Engineering Intern
+    team: Exchange Hybrid
+    start: April, 2020
+    end: May, 2020
+    location: Remote
+    info:
+    - Architected & implemented an ala-carte mode in the Hybrid Configuration Wizard for on-prem Exchange Server allowing for selective component installation.
+education:
+- name: BITS Pilani, Hyderabad Campus
+  degree: "*_B.E._* Computer Science & *_M.Sc._* Mathematics"
+  grade: "*GPA:* 9.10 / 10"
+  location: Hyderabad, India
+  start: August, 2016
+  end: May, 2021
+  info:
+  - Secretary of the Quiz Club for the academic year 2018-19.
+  - Teaching assistant for the following courses - _Mathematics I_, _Mathematics II_, _Measure & Integration_, _Introduction to Topology_.
+
+skills:
+  Programming Languages: [Go, C#, Python, JavaScript, C/C++, Rust, "Scripting (Bash, PowerShell)"]
+  Tools & Technologies: [Linux, Git, Docker, Kubernetes, ASP.NET, SQL, "Azure (Functions, App Service, Storage, AKS)"]
+  Soft Skills: [Communication, Teamwork, Leadership, Problem Solving, Critical Thinking, Documentation]
+  Languages: [English, Hindi, Konkani, Marathi]

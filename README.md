@@ -1,2 +1,3 @@
 # vitae
-Clean &amp; simple resume template for software engineers.
+
+Clean & simple resume template for software engineers.
