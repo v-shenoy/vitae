@@ -64,9 +64,9 @@
         ],
         [
           #set align(right)
-          #strong(pos.start) -- #strong(pos.end)
-          #vsep()
           #pos.location
+          #vsep()
+          #strong(pos.start) -- #strong(pos.end)
         ]
       )
 
@@ -139,6 +139,6 @@
   // ],
 )
 
-#set text(font: "Calibri", size: 11pt)
+#set text(font: "Calibri", size: 10.5pt)
 
 #render_cv(data)
