@@ -36,17 +36,20 @@
 
 #let render_header(name, links) = {
   set align(center)
-  [ 
-    #set text(font: "LibreBaskerville", size: 13pt)
-    = #name 
+  [
+    #set text(font: "Libre Baskerville", size: 13pt)
+    = #name
   ]
   render_links(links)
 }
 
 #let render_summary(summary) = {
   section_heading("Summary")
+  [
+    #set text(size: 10pt)
+    #par(summary)
+  ]
 
-  par(summary)
 }
 
 #let render_experience(ex) = {
@@ -139,6 +142,6 @@
   // ],
 )
 
-#set text(font: "Calibri", size: 10.5pt)
+#set text(font: "Calibri", size: 10pt)
 
 #render_cv(data)

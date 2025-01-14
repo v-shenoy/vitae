@@ -1,6 +1,6 @@
 name: Vighnesh Shenoy
 job: Software Engineer
-summary: Software engineer with 3+ years of experience in managing large-scale projects with 400K+ monthly active apps & 3B+ requests per day. Detail-oriented and proficient in a wide array of technologies and software development practices. Well-versed at fostering collaboration within diverse, geo-distributed teams of 20+ people ensuring project success.
+summary: I'm a software engineer with 3.5 years of experience in developing and maintaining enterprise, cloud-based solutions generating $8M+ in monthly revenue. I am well-versed with engineering scalable applications with an ability to collaborate effectively with geo-distributed teams.
 
 links:
   - url: tel:+910000000000
@@ -9,8 +9,8 @@ links:
   - url: mailto:vighneshq@gmail.com
     display: vighneshq@gmail.com
     icon: mail
-  - url: https://v-shenoy.com/
-    display: v-shenoy.com
+  - url: https://v-shenoy.in/
+    display: v-shenoy.in
     icon: link
   - url: https://github.com/v-shenoy
     display: v-shenoy
@@ -23,27 +23,35 @@ experience:
 - company: Microsoft
   positions:
   - role: Software Engineer II
-    team: Azure Functions
-    start: March 2024
+    team: Azure Container Apps (ACA)
+    start: Jan 2025
     end: Present
     location: Hyderabad, India
     info:
-    - Enhanced security for Functions on Azure Container Apps (ACA) by designing & implementing features such as CORS and support for Azure Managed Identity (MI), improving enterprise user experience.
-    - Reduced attack surface for Functions on ACA by 5% by adding important security features such as managed identity based scaling and integration with OAuth providers such as EntraID.
-    - Achieved an increase in SLIs for customer incidents by 7% by setting up dashboards, alerts for debugging leading to quicker resolution.
-    - Showcased mentorship capability by acting as a mentor to 2 interns, providing them a seamless on-boarding experience to the team & helped accomplish the planned deliverables.
+    - Primarily working on integrating *DAPR* (CNCF-graduated project) with ACA to enhance microservice architecture by simplifying service invocation, state management, and pub/sub messaging, etc.
+  - role: Software Engineer II
+    team: Azure Functions
+    start: March 2024
+    end: December 2024
+    location: Hyderabad, India
+    info:
+    - Enhanced security for Functions on Azure Container Apps (ACA) by  designing & implementing support for Azure Managed Identity, improving enterprise user experience.
+    - Integrated managed identity with other Azure services such as Key Vault, Container Registry, etc. to provide a seamless experience for developers.
+    - Improved team productivity and code reliability by *10%* by refactoring the development experience enabling E2E tests to be run as part of the CI/CD pipeline.
+    - Achieved a *7%* increase in SLIs for customer incidents by implementing dashboards and alerting systems, improving debugging and resolution times.
+    - Mentored *2* interns, ensuring a smooth onboarding, helping them learn, and guiding them to successfully complete their deliverables.
   - role: Software Engineer
     team: Azure Functions
-    start: June, 2021
+    start: July, 2021
     end: March, 2024
     location: Hyderabad, India
-    info: 
-    - Ensured a 99.9% SLA for control-plane APIs for Functions on ACA by enhancing backend functionality and resolving critical issues.
-    - Acquired privileged contributor access to KEDA, which is an open-source CNCF project enabling event-based autoscaling of workloads on Kubernetes.
+    info:
+    - Achieved a *99.99%* SLA for control-plane APIs for Functions on ACA by improving backend capabilities and resolving critical issues.
+    - Gained privileged contributor access to *KEDA*, an open-source CNCF-graduated project enabling event-based autoscaling of workloads on Kubernetes.
     - Led the KEDA add-on for Azure Kubernetes Service (AKS) from preview to general availability as the sole developer, providing a managed KEDA experience on AKS.
-    - Increased overall KEDA usage across OSS and AKS add-on by contributing essential features & bug-fixes leading to a 20% attach rate of KEDA with AKS clusters.
-    - Acted as the primary maintainer of 10+ KEDA scalers for various Azure services, enabling users to autoscale their applications on Azure.
-    - Increased developer contributions & efficiency by developing an E2E testing framework facilitating the migration of tests from TypeScript to Go for 60+ scalers.
+    - Increased overall KEDA usage across OSS and AKS add-on by contributing essential features & bug-fixes achieving a *20%* attach rate of KEDA with AKS clusters.
+    - Acted as the primary maintainer of *10+* KEDA scalers for various Azure services, enabling customers to auto-scale their applications on Azure.
+    - Improved developer contributions & efficiency by developing an E2E testing framework facilitating the migration of tests from TypeScript to Go for *60+* KEDA scalers.
 - company: Walmart
   positions:
   - role: Software Engineering Intern
@@ -52,25 +60,16 @@ experience:
     end: June, 2021
     location: Remote
     info:
-    - Improved developer productivity by 5 developer hours by creating a support tool to debug the QuickPick app used by Walmart associates.
+    - Boosted developer productivity by *30%* by creating an internal support tool for debugging the QuickPick application used by Walmart associates.
 - company: Amazon
   positions:
   - role: Software Engineering Intern
     team: Delivery Service Partner (DSP) Acquisition
-    start: June, 2021
-    end: December, 2021
+    start: July, 2020
+    end: December, 2020
     location: Remote
     info:
-    - Raised overall backend performance by 15% for the marketing website by deploying it in a cloud-native fashion on AWS using industry standards. 
-- company: Microsoft
-  positions:
-  - role: Software Engineering Intern
-    team: Exchange Hybrid
-    start: April, 2020
-    end: May, 2020
-    location: Remote
-    info:
-    - Architected & implemented an ala-carte mode in the Hybrid Configuration Wizard for on-prem Exchange Server allowing for selective component installation.
+    - Raised overall backend performance by 15% for the marketing website by deploying it in a cloud-native fashion on AWS using industry standards.
 
 education:
 - name: BITS Pilani, Hyderabad Campus
@@ -81,12 +80,12 @@ education:
   end: May, 2021
   info:
   - Secretary of the Quiz Club for the academic year 2018-19.
-  - Organized Enigma a national level college quiz with regionals in 15+ cities with a prize pool of Rs. 90,000.
-  - Organized QuBITS, the quizzing festival of our college with a prize-pool of Rs. 100,000.
-  - Teaching assistant for the following courses - _Mathematics I_, _Mathematics II_, _Measure & Integration_, _Introduction to Topology_.
+  - Organized Enigma a national level college quiz with regionals in 15+ cities with a prize pool of Rs. 90K.
+  - Organized QuBITS, the quizzing festival of our college with a prize-pool of Rs. 100K.
+  - Teaching assistant for the following courses - _Mathematics I_, _Mathematics II_, _Measure & Integration_, _Introduction to Topology_ across differnt semesters.
 
 skills:
-  Programming Languages: [Go, C#, Python, JavaScript, C/C++, Rust, "Scripting (Bash, PowerShell)"]
-  Tools & Technologies: [Linux, Git, Docker, Kubernetes, ASP.NET, SQL, "Azure (Functions, App Service, Storage, AKS)"]
-  Soft Skills: [Communication, Teamwork, Leadership, Problem Solving, Critical Thinking, Documentation]
+  Programming Languages: [Go, C#, Python, JavaScript, C/C++, "Scripting (Bash, PowerShell)"]
+  Tools & Technologies: [Linux, Git, Docker, Kubernetes, ASP.NET, SQL, "Azure (Container Apps, Functions, App Service, Storage, AKS)"]
+  Soft Skills: [Communication, Teamwork, Leadership, Technical Writing, Decision Making]
   Languages: [English, Hindi, Konkani, Marathi]
