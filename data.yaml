@@ -28,7 +28,8 @@ experience:
     end: Present
     location: Hyderabad, India
     info:
-    - Primarily working on integrating *DAPR* (CNCF-graduated project) with ACA to enhance microservice architecture by simplifying service invocation, state management, and pub/sub messaging, etc.
+    - Implemented application health checks via DAPR (CNCF-graduated project) to improve customer workload reliability.
+    - Onboarded ACA to Azure Resource Graph (ARG) to enable inventory management and improve auto-triaging of customer issues.
   - role: Software Engineer II
     team: Azure Functions
     start: March 2024
@@ -77,7 +78,7 @@ education:
   grade: "*GPA:* 9.10 / 10"
   location: Hyderabad, India
   start: August, 2016
-  end: May, 2021
+  end: July, 2021
   info:
   - Secretary of the Quiz Club for the academic year 2018-19.
   - Organized Enigma a national level college quiz with regionals in 15+ cities with a prize pool of Rs. 90K.
@@ -88,4 +89,4 @@ skills:
   Programming Languages: [Go, C#, Python, JavaScript, C/C++, "Scripting (Bash, PowerShell)"]
   Tools & Technologies: [Linux, Git, Docker, Kubernetes, ASP.NET, SQL, "Azure (Container Apps, Functions, App Service, Storage, AKS)"]
   Soft Skills: [Communication, Teamwork, Leadership, Technical Writing, Decision Making]
-  Languages: [English, Hindi, Konkani, Marathi]
+  Languages: [English (Professional), Hindi (Bilingual), Konkani (Native), Marathi (Limited)]
